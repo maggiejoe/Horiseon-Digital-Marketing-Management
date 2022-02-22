@@ -120,10 +120,10 @@ p {
     max-width: 150px;
 }
 
-/*deleted and updated seach engine optimization(SEO), online reputation management(ORM), social media marketing(SMM) classes for more clean delcarations*/
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing {
+/*deleted and updated seach, online, social classes for more clean delcarations*/
+.search,
+.online,
+.social {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -132,17 +132,17 @@ p {
     color: #ffffff;
 }
 
-/*deleted and upated SEO, ORM, SMM img classes for more clean declarations*/
-.search-engine-optimization img,
-.online-reputation-management img,
-.social-media-marketing img {
+/*deleted and upated search, online, social img classes for more clean declarations*/
+.search img,
+.online img,
+.social img {
     max-height: 200px;
 }
 
-/*deleted and updated SEO, ORM, SMM h2 classes for more clean declarations*/
-.search-engine-optimization h2,
-.online-reputation-management h2,
-.social-media-marketing h2 {
+/*deleted and updated search, online, social h2 classes for more clean declarations*/
+.search h2,
+.online h2,
+.social h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
