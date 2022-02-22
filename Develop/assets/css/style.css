@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*header begins*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +16,7 @@ body {
     color: #ffffff;
 }
 
+/*header color and size attributes starts*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -23,6 +25,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
+/*header color and size attributes ends*/
 
 .header section {
     padding-top: 15px;
@@ -45,11 +48,13 @@ body {
     color: #ffffff;
     text-decoration: none;
 }
+/*header ends*/
 
+/*all text other than headers will use this font size*/
 p {
     font-size: 16px;
 }
-
+/*hero style starts*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +63,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*hero style ends*/
 
+/*header link attributes starts*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,6 +81,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/*header link attributes ends*/
 
 .benefits {
     margin-right: 20px;
