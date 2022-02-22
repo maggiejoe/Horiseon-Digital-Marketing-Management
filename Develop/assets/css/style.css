@@ -96,25 +96,25 @@ p {
 }
 
 /*deleted and updated benefit-lead, benefit-brand, benefit-cost for more clear declarations*/
-.benefit-lead,
-.benefit-brand,
-.benefit-cost {
+.lead,
+.brand,
+.cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /*deleted and updated benefits h3 classes for more clean declarations*/
-.benefit-lead h3,
-.benefits-brand h3,
-.benefits-cost h3 {
+.lead h3,
+.brand h3,
+.cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /*deleted and updated benefits img classes for more clean delcarations*/
-.benefit-lead img,
-.benefit-brand img,
-.benefit-cost img {
+.lead img,
+.brand img,
+.cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
